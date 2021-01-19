@@ -1,0 +1,25 @@
+﻿  BS.cpp
+  ConsoleApplication1.cpp
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(15,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(22,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(29,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(40,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(47,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(54,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(75,31): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(106,30): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(133,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(159,37): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(180,31): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\ConsoleApplication1.cpp(197,30): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  CRR.cpp
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\CRR.cpp(122,158): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  MonteCarloIntegralComputer.cpp
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\MonteCarloIntegralComputer.cpp(28,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Option.cpp
+  RandomPaths.cpp
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\RandomPaths.cpp(20,27): warning C4244: 'argument' : conversion de 'double' en 'const unsigned __int64', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\RandomPaths.cpp(22,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\ConsoleApplication1\RandomPaths.cpp(43,40): warning C4244: 'argument' : conversion de 'double' en 'const unsigned __int64', perte possible de données
+  Génération de code en cours...
+  ConsoleApplication1.vcxproj -> C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\Projet_Guenet_Di-Betta\Projet\x64\Debug\ConsoleApplication1.exe

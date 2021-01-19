@@ -1,0 +1,16 @@
+﻿  BS.cpp
+  ConsoleApplication1.cpp
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(15,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(22,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(29,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(40,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(47,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(54,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(75,31): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(106,30): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(133,38): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(159,37): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(180,31): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\ConsoleApplication1\ConsoleApplication1.cpp(197,30): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours...
+  ConsoleApplication1.vcxproj -> C:\Users\mathi\OneDrive - De Vinci\ESILV\semestre 7\C++ for finance\TD5\Debug\ConsoleApplication1.exe
